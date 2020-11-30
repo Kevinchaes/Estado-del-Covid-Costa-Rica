@@ -1,0 +1,677 @@
+"CUADRO No.3 
+Número de casos acumulados, recuperados, fallecidos y activos por COVID-191 
+Por provincia,cantón y distrito",,,,,,,
+44162,,,,,,,
+,,,,ACUMULADOS,RECUPERADOS,FALLECIDOS,ACTIVOS
+Provincia,,Cantón,Distrito,Casos*,Casos*,Casos*,Casos*
+,,,,,,,
+San José,,,,56622,38926,817,16879
+,,Acosta,,675,559,4,112
+,,,Cangrejal,57,51,0,6
+,,,Guaitil,69,60,1,8
+,,,Palmichal,154,121,1,32
+,,,Sabanillas,24,16,0,8
+,,,San Ignacio,368,308,2,58
+,,,Sin información de distrito,3,3,0,0
+,,Alajuelita,,5189,3279,60,1850
+,,,Alajuelita,933,563,19,351
+,,,Concepción,1217,750,13,454
+,,,San Antonio,193,112,3,78
+,,,San Felipe,2138,1429,22,687
+,,,San Josecito,700,417,3,280
+,,,Sin información de distrito,8,8,0,0
+,,Aserrí,,1589,673,16,900
+,,,Aserrí,963,417,10,536
+,,,Legua,12,3,0,9
+,,,Monterrey,7,3,0,4
+,,,Salitrillos,232,110,5,117
+,,,San Gabriel,100,31,1,68
+,,,Tarbaca,57,17,0,40
+,,,Vuelta de Jorco,201,75,0,126
+,,,Sin información de distrito,17,17,0,0
+,,Curridabat,,2911,2432,39,440
+,,,Curridabat,1210,984,14,212
+,,,Granadilla,546,455,10,81
+,,,Sánchez,139,108,0,31
+,,,Tirrases,999,868,15,116
+,,,Sin información de distrito,17,17,0,0
+,,Desamparados,,8522,3495,132,4895
+,,,Damas,478,191,11,276
+,,,Desamparados,1363,628,38,697
+,,,Frailes,29,11,0,18
+,,,Gravilias,405,150,5,250
+,,,Los Guido,1134,480,17,637
+,,,Patarra,344,147,3,194
+,,,Rosario,53,26,2,25
+,,,San Antonio,298,114,7,177
+,,,San Cristobal,44,17,0,27
+,,,San Juan de Dios,724,311,10,403
+,,,San Miguel,1735,598,13,1124
+,,,San Rafael Abajo,1231,584,9,638
+,,,San Rafael Arriba,657,214,16,427
+,,,Sin información de distrito,27,24,1,2
+,,Dota,,36,23,0,13
+,,,Copey,1,1,0,0
+,,,Jardín,7,4,0,3
+,,,Santa María,28,18,0,10
+,,,Sin información de distrito,0,0,0,0
+,,Escazú,,1965,1674,31,260
+,,,Escazú,543,468,10,65
+,,,San Antonio,605,529,11,65
+,,,San Rafael,802,662,10,130
+,,,Sin información de distrito,15,15,0,0
+,,Goicoechea,,4121,3300,71,750
+,,,Calle Blancos,487,349,8,130
+,,,Guadalupe,921,703,21,197
+,,,Ipis,875,711,22,142
+,,,Mata de Plátano,523,427,6,90
+,,,Purral,1111,937,11,163
+,,,Rancho Redondo,118,102,0,16
+,,,San Francisco,58,49,3,6
+,,,Sin información de distrito,28,22,0,6
+,,León Cortés Castro,,85,59,0,26
+,,,Llano Bonito,7,3,0,4
+,,,San Andrés,4,4,0,0
+,,,San Antonio,14,14,0,0
+,,,San Isidro,14,5,0,9
+,,,San Pablo,30,26,0,4
+,,,Santa Cruz,16,7,0,9
+,,,Sin información de distrito,0,0,0,0
+,,Montes de Oca,,1263,1023,14,226
+,,,Mercedes,56,47,0,9
+,,,Sabanilla,255,208,1,46
+,,,San Pedro,635,502,9,124
+,,,San Rafael,311,261,4,46
+,,,Sin información de distrito,6,5,0,1
+,,Mora,,922,746,12,164
+,,,Colón,629,503,8,118
+,,,Guayabo,130,102,3,25
+,,,Jaris,6,5,0,1
+,,,Picagres,8,7,0,1
+,,,Piedras Negras,8,5,0,3
+,,,Quitirrisí,15,13,0,2
+,,,Tabarcia,122,107,1,14
+,,,Sin información de distrito,4,4,0,0
+,,Moravia,,1326,1030,17,279
+,,,La Trinidad,576,462,8,106
+,,,San Jerónimo,144,101,2,41
+,,,San Vicente,601,462,7,132
+,,,Sin información de distrito,5,5,0,0
+,,Pérez Zeledón,,1227,241,9,977
+,,,Barú,0,0,0,0
+,,,Cajón,57,23,0,34
+,,,Daniel Flores,391,68,5,318
+,,,El General,3,3,0,0
+,,,La  Amistad,7,0,0,7
+,,,Paramo,22,6,0,16
+,,,Pejibaye,72,5,1,66
+,,,Platanares,50,11,0,39
+,,,Río Nuevo,26,5,0,21
+,,,Rivas,24,3,1,20
+,,,San Isidro de El General,535,104,2,429
+,,,San Pedro,36,11,0,25
+,,,Sin información de distrito,4,2,0,2
+,,Puriscal,,689,539,9,141
+,,,Barbacoas,90,73,0,17
+,,,Candelarita,22,18,1,3
+,,,Chires,22,18,0,4
+,,,Desamparaditos,15,13,0,2
+,,,Grifo Alto,12,10,1,1
+,,,Mercedes Sur,96,73,3,20
+,,,San Antonio,111,85,0,26
+,,,San Rafael,51,46,1,4
+,,,Santiago,269,203,3,63
+,,,Sin información de distrito,1,0,0,1
+,,San José,,19222,15530,291,3401
+,,,Catedral,901,697,11,193
+,,,El Carmen,363,201,6,156
+,,,Hatillo,2755,2407,54,294
+,,,Hospital,1783,1470,40,273
+,,,Mata Redonda,381,291,7,83
+,,,Merced,962,661,12,289
+,,,Pavas,5637,4896,57,684
+,,,San Francisco de Dos Ríos,555,414,10,131
+,,,San Sebastián,2246,1840,33,373
+,,,Uruca,2805,2047,45,713
+,,,Zapote,753,530,15,208
+,,,Sin información de distrito,81,76,1,4
+,,Santa Ana,,2124,1676,25,423
+,,,Brasil,73,54,1,18
+,,,Piedades,273,216,7,50
+,,,Pozos,670,528,6,136
+,,,Salitral,149,119,2,28
+,,,Santa Ana,572,456,5,111
+,,,Uruca,341,260,4,77
+,,,Sin información de distrito,46,43,0,3
+,,Tarrazú,,81,63,2,16
+,,,San Carlos,8,4,0,4
+,,,San Lorenzo,11,8,1,2
+,,,San Marcos,62,51,1,10
+,,,Sin información de distrito,0,0,0,0
+,,Tibás,,2767,1196,56,1515
+,,,Anselmo Llorente,185,58,5,122
+,,,Cinco Esquinas,534,232,10,292
+,,,Colima,474,171,5,298
+,,,León XIII,936,466,14,456
+,,,San Juan,625,258,22,345
+,,,Sin información de distrito,13,11,0,2
+,,Turrubares,,107,72,0,35
+,,,Carara,34,15,0,19
+,,,San Juan de Mata,24,21,0,3
+,,,San Luis,3,2,0,1
+,,,San Pablo,34,27,0,7
+,,,San Pedro,12,7,0,5
+,,,Sin información de distrito,0,0,0,0
+,,Vazquez de Coronado,,1801,1316,29,456
+,,,Cascajal,240,176,2,62
+,,,Dulce Nombre de Jesús,321,234,6,81
+,,,Patalillo,575,435,7,133
+,,,San Isidro,483,343,10,130
+,,,San Rafael,174,122,4,48
+,,,Sin información de distrito,8,6,0,2
+,,Sin información de Cantón,,0,0,0,0
+Alajuela,,,,26412,13282,279,12851
+,,Alajuela,,10479,3932,131,6416
+,,,Alajuela,2185,887,48,1250
+,,,Carrizal,212,54,1,157
+,,,Desamparados,850,341,9,500
+,,,Garita,187,58,2,127
+,,,Guácima,958,332,5,621
+,,,Río Segundo,476,305,7,164
+,,,Sabanilla,201,42,5,154
+,,,San Antonio,1026,314,10,702
+,,,San Isidro,469,150,2,317
+,,,San José,1403,455,17,931
+,,,San Rafael,1760,750,20,990
+,,,Sarapiquí,75,16,0,59
+,,,Tambor,397,128,3,266
+,,,Turrucares,261,86,2,173
+,,,Sin información de distrito,19,14,0,5
+,,Atenas,,572,179,3,390
+,,,Atenas,184,61,2,121
+,,,Concepción,110,35,0,75
+,,,Escobal,12,3,0,9
+,,,Jesús,62,28,0,34
+,,,Mercedes,81,18,0,63
+,,,San Isidro,77,20,1,56
+,,,San José,26,6,0,20
+,,,Santa Eulalia,20,8,0,12
+,,,Sin información de distrito,0,0,0,0
+,,Grecia,,1485,366,23,1096
+,,,Bolivar,110,23,0,87
+,,,Grecia,460,104,12,344
+,,,Puente de Piedra,260,89,3,168
+,,,San Isidro,105,20,2,83
+,,,San José,143,30,1,112
+,,,San Roque,201,47,2,152
+,,,Tacares,204,52,3,149
+,,,Sin información de distrito,2,1,0,1
+,,Guatuso,,414,305,3,106
+,,,Buenavista,35,28,0,7
+,,,Cote,14,6,0,8
+,,,Katira,52,37,1,14
+,,,San Rafael,309,230,2,77
+,,,Sin información de distrito,4,4,0,0
+,,Los Chiles,,522,443,8,71
+,,,Caño Negro,6,5,0,1
+,,,El Amparo,84,63,2,19
+,,,Los Chiles,390,341,6,43
+,,,San Jorge,18,10,0,8
+,,,Sin información de distrito,24,24,0,0
+,,Naranjo,,1235,472,13,750
+,,,Cirrí Sur,123,46,1,76
+,,,El Rosario,116,44,0,72
+,,,Naranjo,516,211,5,300
+,,,Palmitos,80,37,0,43
+,,,San Jerónimo,140,46,2,92
+,,,San José,55,26,1,28
+,,,San Juan,109,24,4,81
+,,,San Miguel,94,37,0,57
+,,,Sin información de distrito,2,1,0,1
+,,Orotina,,555,451,5,99
+,,,Coyolar,116,91,0,25
+,,,El Mastate,52,42,1,9
+,,,Hacienda Vieja,42,40,0,2
+,,,La Ceiba,24,18,0,6
+,,,Orotina,318,257,4,57
+,,,Sin información de distrito,3,3,0,0
+,,Palmares,,928,649,11,268
+,,,Buenos Aires,171,119,1,51
+,,,Candelaria,53,29,0,24
+,,,Esquipulas,185,132,1,52
+,,,La Granja,96,72,0,24
+,,,Palmares,146,96,7,43
+,,,Santiago,50,31,1,18
+,,,Zaragoza,226,169,1,56
+,,,Sin información de distrito,1,1,0,0
+,,Poás,,889,696,10,183
+,,,Carrillos,308,258,4,46
+,,,Sabana Redonda,62,48,0,14
+,,,San Juan,126,97,0,29
+,,,San Pedro,293,215,1,77
+,,,San Rafael,92,71,5,16
+,,,Sin información de distrito,8,7,0,1
+,,Río Cuarto,,447,108,3,336
+,,,Río Cuarto,293,74,2,217
+,,,Santa Isabel,51,13,0,38
+,,,Santa Rita,102,21,1,80
+,,,Sin información de distrito,1,0,0,1
+,,San Carlos,,5744,3909,42,1793
+,,,Aguas Zarcas,742,502,5,235
+,,,Buenavista,4,3,0,1
+,,,Cutris,273,183,1,89
+,,,Florencia,483,323,1,159
+,,,La Fortuna,820,447,2,371
+,,,La Palmera,209,126,0,83
+,,,La Tigra,149,110,2,37
+,,,Monterrey,84,45,0,39
+,,,Pital,687,573,10,104
+,,,Pocosol,406,262,3,141
+,,,Quesada,1565,1089,16,460
+,,,Venado,27,13,0,14
+,,,Venecia,269,207,2,60
+,,,Sin información de distrito,26,26,0,0
+,,San Mateo,,75,56,1,18
+,,,Desmonte,3,2,0,1
+,,,Jesús María,16,11,0,5
+,,,Labrador,13,11,0,2
+,,,San Mateo,42,31,1,10
+,,,Sin información de distrito,1,1,0,0
+,,San Ramón,,1685,956,14,715
+,,,Alfaro,104,55,4,45
+,,,Ángeles,86,42,1,43
+,,,Concepción,42,24,0,18
+,,,Peñas Blancas,259,159,3,97
+,,,Piedades Norte,123,72,1,50
+,,,Piedades Sur,54,30,1,23
+,,,San Isidro,84,54,0,30
+,,,San Juan,266,153,1,112
+,,,San Lorenzo,4,2,0,2
+,,,San Rafael,133,79,0,54
+,,,San Ramón,377,195,2,180
+,,,Santiago,104,64,1,39
+,,,Volio,41,19,0,22
+,,,Zapotal,0,0,0,0
+,,,Sin información de distrito,8,8,0,0
+,,Sarchí,,334,246,2,86
+,,,Rodríguez,26,17,0,9
+,,,San Pedro,31,21,0,10
+,,,Sarchí Norte,173,135,0,38
+,,,Sarchí Sur,99,69,2,28
+,,,Toro Amarillo,5,4,0,1
+,,,Sin información de distrito,0,0,0,0
+,,Upala,,596,393,7,196
+,,,Aguas Claras,26,18,0,8
+,,,Bijagua,39,23,0,16
+,,,Canalete,34,20,0,14
+,,,Delicias,83,67,0,16
+,,,Dos Ríos,6,2,0,4
+,,,San José O Pizote,111,80,1,30
+,,,Upala,258,165,6,87
+,,,Yolillal,38,17,0,21
+,,,Sin información de distrito,1,1,0,0
+,,Zarcero,,452,121,3,328
+,,,Brisas,38,24,0,14
+,,,Guadalupe,12,2,0,10
+,,,Laguna,58,15,0,43
+,,,Palmira,67,6,0,61
+,,,Tapesco,73,27,2,44
+,,,Zapote,17,5,0,12
+,,,Zarcero,186,41,1,144
+,,,Sin información de distrito,1,1,0,0
+,,Sin información de Cantón,,0,0,0,0
+Cartago,,,,9768,6114,106,3548
+,,Alvarado,,178,118,2,58
+,,,Capellades,24,19,0,5
+,,,Cervantes,65,51,1,13
+,,,Pacayas,89,48,1,40
+,,,Sin información de distrito,0,0,0,0
+,,Cartago,,2953,1592,30,1331
+,,,Aguacaliente o San Francisco,594,338,2,254
+,,,Carmen,358,236,3,119
+,,,Corralillo,136,89,0,47
+,,,Dulce Nombre,202,104,2,96
+,,,Guadalupe o Arenilla,260,81,4,175
+,,,Llano Grande,126,72,2,52
+,,,Occidental,178,99,4,75
+,,,Oriental,311,172,7,132
+,,,Quebradilla,143,37,0,106
+,,,San Nicolás,495,305,3,187
+,,,Tierra Blanca,134,43,3,88
+,,,Sin información de distrito,16,16,0,0
+,,El Guarco,,840,343,9,488
+,,,El Tejar,562,226,5,331
+,,,Patio de Agua,2,0,0,2
+,,,San Isidro,149,63,3,83
+,,,Tobosi,124,51,1,72
+,,,Sin información de distrito,3,3,0,0
+,,Jiménez,,133,124,1,8
+,,,Juan Viñas,47,43,0,4
+,,,Pejibaye,50,47,1,2
+,,,Tucurrique,36,34,0,2
+,,,Sin información de distrito,0,0,0,0
+,,La Unión,,3187,2156,39,992
+,,,Concepción,471,364,3,104
+,,,Dulce Nombre,392,240,9,143
+,,,Río Azul,420,197,5,218
+,,,San Diego,643,488,8,147
+,,,San Juan,271,172,4,95
+,,,San Rafael,437,296,2,139
+,,,San Ramón,93,67,0,26
+,,,Tres Ríos,452,327,8,117
+,,,Sin información de distrito,8,5,0,3
+,,Oreamuno,,1205,866,9,330
+,,,Cipreses,88,58,0,30
+,,,Cot,370,284,2,84
+,,,Potrero Cerrado,64,54,1,9
+,,,San Rafael,611,421,5,185
+,,,Santa Rosa,70,47,1,22
+,,,Sin información de distrito,2,2,0,0
+,,Paraíso,,680,550,10,120
+,,,Cachí,84,68,1,15
+,,,Llanos de Santa Lucía,210,183,3,24
+,,,Orosi,76,58,3,15
+,,,Paraíso,263,204,1,58
+,,,Santiago,46,36,2,8
+,,,Sin información de distrito,1,1,0,0
+,,Turrialba,,592,365,6,221
+,,,Chirripó,127,10,0,117
+,,,La Isabel,40,34,0,6
+,,,La Suiza,60,50,1,9
+,,,Pavones,25,16,0,9
+,,,Peralta,2,2,0,0
+,,,Santa Cruz,15,10,1,4
+,,,Santa Rosa,36,26,0,10
+,,,Santa Teresita,30,21,0,9
+,,,Tayutic,14,10,0,4
+,,,Tres Equis,12,3,0,9
+,,,Tuis,17,15,1,1
+,,,Turrialba,212,166,3,43
+,,,Sin información de distrito,2,2,0,0
+,,Sin información de Cantón,,0,0,0,0
+Heredia,,,,15513,9766,181,5566
+,,Barva,,1247,968,11,268
+,,,Barva,236,177,3,56
+,,,San José de la Montaña,151,112,0,39
+,,,San Pablo,224,168,1,55
+,,,San Pedro,309,252,2,55
+,,,San Roque,132,105,1,26
+,,,Santa Lucía,190,149,4,37
+,,,Sin información de distrito,5,5,0,0
+,,Belén,,805,556,5,244
+,,,La Asunción,149,92,1,56
+,,,La Ribera,302,217,1,84
+,,,San Antonio,350,243,3,104
+,,,Sin información de distrito,4,4,0,0
+,,Flores,,801,531,6,264
+,,,Barrantes,160,105,1,54
+,,,Llorente,341,231,1,109
+,,,San Joaquín,298,194,4,100
+,,,Sin información de distrito,2,1,0,1
+,,Heredia,,5327,2788,76,2463
+,,,Heredia,835,417,15,403
+,,,Mercedes,839,417,11,411
+,,,San Francisco,2661,1488,32,1141
+,,,Ulloa,979,456,18,505
+,,,Varablanca,2,1,0,1
+,,,Sin información de distrito,11,9,0,2
+,,San Isidro,,776,517,15,244
+,,,Concepción,88,68,2,18
+,,,San Francisco,165,113,2,50
+,,,San Isidro,322,228,5,89
+,,,San José,200,107,6,87
+,,,Sin información de distrito,1,1,0,0
+,,San Pablo,,950,688,15,247
+,,,Rincón de Sabanilla,204,149,2,53
+,,,San Pablo,745,538,13,194
+,,,Sin información de distrito,1,1,0,0
+,,San Rafael,,1503,1132,17,354
+,,,Ángeles,266,211,2,53
+,,,Concepción,114,87,0,27
+,,,San Josecito,456,341,2,113
+,,,San Rafael,410,308,9,93
+,,,Santiago,246,176,4,66
+,,,Sin información de distrito,11,9,0,2
+,,Santa Bárbara,,1006,618,10,378
+,,,Jesús,216,145,2,69
+,,,Purabá,87,45,0,42
+,,,San Juan,233,147,4,82
+,,,San Pedro,115,62,0,53
+,,,Santa Bárbara,291,190,3,98
+,,,Santo Domingo,63,28,1,34
+,,,Sin información de distrito,1,1,0,0
+,,Santo Domingo,,1557,1002,18,537
+,,,Pará,184,120,2,62
+,,,Paracito,65,32,0,33
+,,,San Miguel,168,78,3,87
+,,,San Vicente,246,168,5,73
+,,,Santa Rosa,357,238,3,116
+,,,Santo Domingo,246,152,4,90
+,,,Santo Tomás,133,89,1,43
+,,,Tures,158,125,0,33
+,,,Sin información de distrito,0,0,0,0
+,,Sarapiquí,,1541,966,8,567
+,,,Cureña,5,3,0,2
+,,,La Virgen,232,142,4,86
+,,,Las Horquetas,543,364,2,177
+,,,Llanuras del Gaspar,6,4,0,2
+,,,Puerto Viejo,753,451,2,300
+,,,Sin información de distrito,2,2,0,0
+,,Sin información de Cantón,,0,0,0,0
+Guanacaste,,,,6599,3756,62,2781
+,,Abangares,,354,246,0,108
+,,,Colorado,85,45,0,40
+,,,Las Juntas,204,149,0,55
+,,,San Juan,29,19,0,10
+,,,Sierra,36,33,0,3
+,,,Sin información de distrito,0,0,0,0
+,,Bagaces,,287,206,2,79
+,,,Bagaces,184,139,2,43
+,,,La Fortuna,35,27,0,8
+,,,Mogote,49,25,0,24
+,,,Río Naranjo,17,13,0,4
+,,,Sin información de distrito,2,2,0,0
+,,Cañas,,656,477,8,171
+,,,Bebedero,33,23,1,9
+,,,Cañas,577,418,7,152
+,,,Palmira,11,9,0,2
+,,,Porozal,5,3,0,2
+,,,San Miguel,27,21,0,6
+,,,Sin información de distrito,3,3,0,0
+,,Carrillo,,539,323,6,210
+,,,Belén,97,68,1,28
+,,,Filadelfia,132,69,3,60
+,,,Palmira,74,45,1,28
+,,,Sardinal,228,133,1,94
+,,,Sin información de distrito,8,8,0,0
+,,Hojancha,,129,110,1,18
+,,,Hojancha,104,92,1,11
+,,,Huacas,2,1,0,1
+,,,Matambú,13,12,0,1
+,,,Monte Romo,6,1,0,5
+,,,Puerto Carrillo,4,4,0,0
+,,,Sin información de distrito,0,0,0,0
+,,La Cruz,,453,341,4,108
+,,,La Cruz,358,265,4,89
+,,,La Garita,28,22,0,6
+,,,Santa Cecilia,55,45,0,10
+,,,Santa Elena,10,7,0,3
+,,,Sin información de distrito,2,2,0,0
+,,Liberia,,1669,557,8,1104
+,,,Cañas Dulces,42,12,0,30
+,,,Curubandé,40,9,0,31
+,,,Liberia,1534,518,8,1008
+,,,Mayorga,20,6,0,14
+,,,Nacascolo,30,9,0,21
+,,,Sin información de distrito,3,3,0,0
+,,Nandayure,,149,108,5,36
+,,,Bejuco,21,14,0,7
+,,,Carmona,46,33,2,11
+,,,Porvenir,9,5,2,2
+,,,San Pablo,22,18,0,4
+,,,Santa Rita,43,32,0,11
+,,,Zapotal,8,6,1,1
+,,,Sin información de distrito,0,0,0,0
+,,Nicoya,,1106,820,19,267
+,,,Belén de Nosarita,22,19,0,3
+,,,Mansión,80,60,3,17
+,,,Nicoya,684,501,11,172
+,,,Nosara,131,97,2,32
+,,,Quebrada Honda,38,29,0,9
+,,,Sámara,43,38,0,5
+,,,San Antonio,104,72,3,29
+,,,Sin información de distrito,4,4,0,0
+,,Santa Cruz,,1039,417,6,616
+,,,Bolsón,23,7,1,15
+,,,Cabo Velas,66,18,1,47
+,,,Cartagena,86,21,0,65
+,,,Cuajiniquil,23,19,1,3
+,,,Diriá,57,19,0,38
+,,,Santa Cruz,446,186,2,258
+,,,Tamarindo,89,23,0,66
+,,,Tempate,188,87,0,101
+,,,Veintisiete de Abril,54,30,1,23
+,,,Sin información de distrito,7,7,0,0
+,,Tilarán,,218,151,3,64
+,,,Arenal,23,18,2,3
+,,,Líbano,4,4,0,0
+,,,Quebrada Grande,28,20,0,8
+,,,Santa Rosa,18,12,0,6
+,,,Tierras Morenas,11,3,0,8
+,,,Tilarán,112,82,1,29
+,,,Tronadora,22,12,0,10
+,,,Sin información de distrito,0,0,0,0
+,,Sin información de Cantón,,0,0,0,0
+Puntarenas,,,,11161,6235,144,4782
+,,Buenos Aires,,477,45,9,423
+,,,Biolley,6,2,1,3
+,,,Boruca,16,3,0,13
+,,,Brunka,36,2,1,33
+,,,Buenos Aires,334,32,5,297
+,,,Chánguena,2,0,0,2
+,,,Colinas,3,0,0,3
+,,,Pilas,3,0,0,3
+,,,Potrero Grande,44,3,2,39
+,,,Volcán,33,3,0,30
+,,,Sin información de distrito,0,0,0,0
+,,Corredores,,1341,857,12,472
+,,,Canoas,465,324,3,138
+,,,Corredor,535,329,5,201
+,,,La Cuesta,179,105,2,72
+,,,Laurel,160,99,2,59
+,,,Sin información de distrito,2,0,0,2
+,,Coto Brus,,316,88,6,222
+,,,Aguabuena,45,12,0,33
+,,,Gutiérrez Braun,20,6,1,13
+,,,Limoncito,39,3,1,35
+,,,Pittier,14,6,0,8
+,,,Sabalito,69,21,0,48
+,,,San Vito,115,40,4,71
+,,,Sin información de distrito,14,0,0,14
+,,Esparza,,956,517,11,428
+,,,Caldera,47,29,1,17
+,,,Espíritu Santo,544,308,7,229
+,,,Macacona,167,88,2,77
+,,,San Jerónimo,23,11,0,12
+,,,San Juan Grande,144,65,1,78
+,,,San Rafael,27,13,0,14
+,,,Sin información de distrito,4,3,0,1
+,,Garabito,,1002,624,9,369
+,,,Jacó,823,521,6,296
+,,,Tárcoles,172,96,3,73
+,,,Sin información de distrito,7,7,0,0
+,,Golfito,,614,278,2,334
+,,,Golfito,182,87,0,95
+,,,Guaycará,287,107,1,179
+,,,Pavón,79,50,1,28
+,,,Puerto Jiménez,65,33,0,32
+,,,Sin información de distrito,1,1,0,0
+,,Montes de Oro,,494,288,6,200
+,,,La Unión,9,5,0,4
+,,,Miramar,345,205,5,135
+,,,San Isidro,139,77,1,61
+,,,Sin información de distrito,1,1,0,0
+,,Osa,,427,207,15,205
+,,,Bahía Ballena,34,11,0,23
+,,,Bahía Drake,10,3,0,7
+,,,Palmar,230,132,11,87
+,,,Piedras Blancas,46,22,1,23
+,,,Puerto Cortés,88,30,1,57
+,,,Sierpe,16,6,2,8
+,,,Sin información de distrito,3,3,0,0
+,,Parrita,,305,241,3,61
+,,,Parrita,303,239,3,61
+,,,Sin información de distrito,2,2,0,0
+,,Puntarenas,,4510,2586,60,1864
+,,,Acapulco,63,31,1,31
+,,,Arancibia,4,3,1,0
+,,,Barranca,1745,1271,23,451
+,,,Chacarita,804,192,15,597
+,,,Chira,24,14,1,9
+,,,Chomes,151,71,2,78
+,,,Cóbano,104,80,1,23
+,,,El Roble,644,338,7,299
+,,,Guacimal,18,16,0,2
+,,,Isla del Coco,0,0,0,0
+,,,Lepanto,184,136,1,47
+,,,Manzanillo,32,15,0,17
+,,,Monte Verde,49,37,1,11
+,,,Paquera,151,101,1,49
+,,,Pitahaya,53,29,2,22
+,,,Puntarenas,473,244,4,225
+,,,Sin información de distrito,11,8,0,3
+,,Quepos,,719,504,11,204
+,,,Naranjito,83,58,2,23
+,,,Quepos,602,418,9,175
+,,,Savegre,32,26,0,6
+,,,Sin información de distrito,2,2,0,0
+,,Sin información de Cantón,,0,0,0,0
+Limón,,,,10447,6627,101,3719
+,,Guácimo,,785,519,7,259
+,,,Duacarí,83,40,0,43
+,,,Guácimo,375,248,3,124
+,,,Mercedes,41,30,0,11
+,,,Pocora,142,100,2,40
+,,,Río Jiménez,142,99,2,41
+,,,Sin información de distrito,2,2,0,0
+,,Limón,,3633,2833,32,768
+,,,Limón,2480,1932,25,523
+,,,Matama,172,125,1,46
+,,,Río Blanco,278,218,2,58
+,,,Valle de La Estrella,693,549,4,140
+,,,Sin información de distrito,10,9,0,1
+,,Matina,,874,678,9,187
+,,,Batán,341,264,6,71
+,,,Carrandí,321,244,2,75
+,,,Matina,211,169,1,41
+,,,Sin información de distrito,1,1,0,0
+,,Pococí,,2457,1316,17,1124
+,,,Cariari,628,321,3,304
+,,,Colorado,15,6,0,9
+,,,Guápiles,821,431,7,383
+,,,Jiménez,178,90,0,88
+,,,La Colonia,93,33,3,57
+,,,Rita,444,241,2,201
+,,,Roxana,275,192,2,81
+,,,Sin información de distrito,3,2,0,1
+,,Siquirres,,1478,967,13,498
+,,,El Cairo,205,162,3,40
+,,,Florida,62,48,0,14
+,,,Germania,57,38,1,18
+,,,La Alegría,117,81,0,36
+,,,Pacuarito,95,65,0,30
+,,,Reventazón,0,0,0,0
+,,,Siquirres,941,572,9,360
+,,,Sin información de distrito,1,1,0,0
+,,Talamanca,,1220,314,23,883
+,,,Bratsi,439,105,12,322
+,,,Cahuita,188,78,1,109
+,,,Sixaola,309,93,2,214
+,,,Telire,283,37,8,238
+,,,Sin información de distrito,1,1,0,0
+,,Sin información de Cantón,,0,0,0,0
+Otros2,,,,571,285,0,286
+TOTAL,,,,137093,84991,1690,50412
+"Fuente: Dirección de Vigilancia de la Salud, Ministerio de Salud,2020",,,,,,,
+"1En razón del método y las investigaciones epidemiológicas, los datos diarios pueden variar",,,,,,,
+"2""Otros""  significa que no se cuenta con información de los casos en el territorio o se encuentran en investigación.",,,,,,,
