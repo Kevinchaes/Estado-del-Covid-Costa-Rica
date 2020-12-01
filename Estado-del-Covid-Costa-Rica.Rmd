@@ -244,9 +244,31 @@ sf_general_distritos_ultima_fecha <-
   left_join(sf_distritos, df_general_distritos_ultima_fecha, by = c('provincia', 'canton', 'distrito'))
 ```
 
-Resúmen
+```{r, include=FALSE}
+#--------------- Datos para grafico de pastel ----------------
+top10 <- df_general_distritos_ultima_fecha %>%
+  arrange(desc(positivos)) %>%
+  slice(1:10) 
+
+otros <- df_general_distritos_ultima_fecha %>%
+  arrange(desc(positivos)) %>%
+  slice(11:487,) %>%
+  select(everything()) %>%
+  summarise(provincia = "Otros",
+            canton = "Otros",
+            distrito = "Otros",
+            positivos = sum(positivos),
+            recuperados = sum(recuperados),
+            fallecidos = sum(fallecidos),
+            activos = sum(activos))
+
+datos <- rbind(top10, otros)
+
+```
+
+Resumen
 =======================================================================
-Row {data-height=1}
+Row {data-height=1.5}
 -----------------------------------------------------------------------
     
 ### Última actualización de datos realizada el `r  df_general_pais_ultima_fecha$FECHA` con base en los [datos publicados por el Ministerio de Salud de Costa Rica](http://geovision.uned.ac.cr/oges/).
@@ -348,7 +370,7 @@ Casos positivos
 =======================================================================
 Row {data-height=1}
 -----------------------------------------------------------------------
-### **Última actualización de datos realizada el `r  df_general_pais_ultima_fecha$FECHA` con base en los [datos publicados por el Ministerio de Salud de Costa Rica](http://geovision.uned.ac.cr/oges/)**.
+### Última actualización de datos realizada el `r  df_general_pais_ultima_fecha$FECHA` con base en los [datos publicados por el Ministerio de Salud de Costa Rica](http://geovision.uned.ac.cr/oges/).
 
 
 Row
@@ -366,32 +388,36 @@ valueBox(value = paste(format(df_general_pais_ultima_fecha$positivos, big.mark =
 Row {data-width=400}
 -----------------------------------------------------------------------
 
-### Mapa de casos positivos en cantones
+### Mapa de casos positivos en distritos
 ```{r}
 
+
+
 paleta_azul <- colorBin(palette = "Blues", 
-                        domain = sf_positivos_cantones_ultima_fecha$positivos,
+                        domain = sf_general_distritos_ultima_fecha$positivos,
                         bins = 10
                )
 
-leaflet_cantones <- leaflet(sf_positivos_cantones_ultima_fecha) %>% 
+leaflet_cantones <- leaflet(sf_general_distritos_ultima_fecha) %>% 
   fitBounds(lng1 = -86, lng2 = -82, lat1 = 8, lat2 = 11) %>%
   addProviderTiles(providers$OpenStreetMap.Mapnik, group = "OpenStreetMap") %>%
   addPolygons(fillColor = ~paleta_azul(positivos), stroke=T, fillOpacity = 1,
               color="black", weight=0.2, opacity= 0.5,
-              group = "Cantones",
-              popup = paste("Provincia: ", sf_positivos_cantones_ultima_fecha$provincia, "<br>",
-                            "Cantón: ", sf_positivos_cantones_ultima_fecha$canton, "<br>",
-                            "Positivos: ", sf_positivos_cantones_ultima_fecha$positivos
+              group = "distrito",
+              popup = paste("Provincia: ", sf_general_distritos_ultima_fecha$provincia, "<br>",
+                            "Cantón: ", sf_general_distritos_ultima_fecha$canton, "<br>",
+                            "Distrito", sf_general_distritos_ultima_fecha$distrito, "<br>",
+                            "Positivos: ", sf_general_distritos_ultima_fecha$positivos
                             )
   ) %>%
   addLegend("bottomright", pal = paleta_azul, values = ~positivos,
     title = "Casos positivos",
-    opacity = 1
+    opacity = 1,
+    group="distrito"
   ) %>%  
   addLayersControl(
     baseGroups = c("OpenStreetMap"),
-    overlayGroups = c("Cantones"),
+    overlayGroups = c("distrito"),
     options = layersControlOptions(collapsed = TRUE)    
   ) %>%  
   addMiniMap(
@@ -406,25 +432,17 @@ leaflet_cantones
 
 ### Gráfico de cantones con mayor cantidad de casos positivos
 ```{r}
-st_drop_geometry(sf_positivos_cantones_ultima_fecha) %>%
-mutate(canton = factor(canton, levels = canton)) %>%
-top_n(n = 10, wt = positivos) %>%  
-plot_ly(x = ~ canton, 
-        y = ~ positivos, 
-        type = "bar", 
-        text = ~ positivos,
-        textposition = 'auto',
+plot_ly(datos, 
+        labels = ~ distrito, 
+        values = ~ positivos, 
+        type = "pie",
+        textinfo = "percent",
+        textposition = '',
         marker = list(color = color_positivos)
 ) %>%
-layout(yaxis = list(title = "Cantidad de casos positivos"),
-       xaxis = list(title = ""),
-       margin = list(l = 10,
-                     r = 10,
-                     b = 10,
-                     t = 10,
-                     pad = 2
-                )
-) 
+  layout(title = "10 distritos con más casos positivos") %>%
+  config(locale = "es")
+   
 ```
 
 
